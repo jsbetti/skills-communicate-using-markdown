@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] banana
+- [x] fruit
+- [ ] pizza
